@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Ola mundo'
+rootProject.name='Mi primera app'

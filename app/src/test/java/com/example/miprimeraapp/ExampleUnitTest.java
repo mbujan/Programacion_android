@@ -1,4 +1,4 @@
-package com.example.olamundo;
+package com.example.miprimeraapp;
 
 import org.junit.Test;
 
